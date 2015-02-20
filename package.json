@@ -1,0 +1,26 @@
+{
+  "name": "nodeapp",
+  "version": "0.0.1",
+  "description": "Simple Node application which uses Jade",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "*",
+    "jade": "*",
+    "nib":"*",
+    "mongodb":"*",
+    "monk":"*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yongjp94/nodeapp.git"
+  },
+  "author": "Yongjun Park",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yongjp94/nodeapp/issues"
+  },
+  "homepage": "https://github.com/yongjp94/nodeapp"
+}
